@@ -1,9 +1,8 @@
 # !INSTRUCTIONS[][challenge-name]
 <br>
 
-<details>
-<summary class=overviewbutton>Challenge Overview</summary>
+:::overviewbutton
+Challenge Overview
+:::
   
 !INSTRUCTIONS[][overview]
-
-</details>
